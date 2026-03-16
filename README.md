@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [my website](https://github.com/plplss/Eaglercraft-Hacked-Clients/tree/master)
 
-- 👨‍💻 All of my projects are available at [my prfile on GitHub!](my prfile on GitHub!)
+- 👨‍💻 All of my projects are available at my profile in GitHub!
 
-- 📫 How to reach me **malcomsanders@tutamail.com**
+- 📫 How to reach me: **malcomsanders@tutamail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
